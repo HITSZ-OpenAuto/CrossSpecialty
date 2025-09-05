@@ -156,3 +156,20 @@
 更多内容可以前往[端云协同物联网开发实践-具体lab内容](https://ohiot.p.cs-lab.top/)中查看。
 
 > 文 / [离谱](https://github.com/LiPu-jpg)，2025.8
+
+### 大模型应用开发入门
+
+![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-1-moccasin)
+![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
+![平时考核10%](https://img.shields.io/badge/平时考核-10%25-wheat)
+![实验作业60%](https://img.shields.io/badge/实验作业-60%25-wheat)
+![期末综合项目30%](https://img.shields.io/badge/期末综合项目-30%25-wheat)
+
+推荐有 Python 基础同学选择。这门课依托于 LangChain 等大模型应用库，编写一个实用的大模型应用。注意课程和 **机器学习** 等不同，不涉及底层模型训练；2024 秋课上使用的是通义千问 API。
+
+有五个小实验，分别对应五个大模型应用开发的知识点，例如大家可能有所耳闻的 RAG、提示词工程等，详见大纲。
+期末结项是综合应用前面的知识点开发一个应用出来；当然老师知道有的同学没有编程基础，所以允许使用 [coze 低代码平台](https://www.coze.cn/) 开发应用。示例项目可参考 [文献阅读助手 - IcyDesert & OverLink](https://github.com/0verL1nk/LLM_App_Final)。
+
+谢佳老师好说话，上课氛围也比较轻松；知道同学们可能基础薄弱，所以她也欢迎同学提问（会有很多人问问题）。签到是签到表形式。
+
+> 文 / [IcyDesert](https://github.com/IcyDesert)，2025.9
