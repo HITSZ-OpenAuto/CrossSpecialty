@@ -67,6 +67,10 @@
 
 > 文 / [海边的星空]()，2025.1
 
+25秋，该课程的课程大纲中增添了闭卷考试，但在实际上课时，仍然遵循无考试，只写一篇小论文的考察方式。
+
+> 文 / [jiazero]()，2025.12
+
 ### 智慧低碳能源发电技术导论
 
 ![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2-moccasin)
@@ -173,3 +177,29 @@
 谢佳老师好说话，上课氛围也比较轻松；知道同学们可能基础薄弱，所以她也欢迎同学提问（会有很多人问问题）。签到是签到表形式。
 
 > 文 / [IcyDesert](https://github.com/IcyDesert)，2025.9
+
+### 城市社会学概论
+
+![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-1.5-moccasin)
+![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
+![作业100%](https://img.shields.io/badge/平时作业-100%25-wheat)
+
+周佩玲老师很温柔，上课氛围轻松，期中需要参与一次两节连堂的剧本杀，会记录该次出勤，老师还准备了饮料零食。
+考察方式主要是3/4人一组，以小组为单位，期中提交一个计划书，期末将该计划书扩展为PPT并展示。
+无考试，平时上课有时会发腾讯文档，扫码回答一个问题并填写名字，作为考勤方式，但无考勤似乎并不影响通过，周老师善良！
+
+> 文 / [jiazero](https://github.com/jiazero)，2025.12
+
+
+### 现代电机设计导论
+
+![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-1-moccasin)
+![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
+![实验报告50%](https://img.shields.io/badge/实验报告-50%25-wheat)
+![平时分50%](https://img.shields.io/badge/平时分-50%25-wheat)
+
+只有一次考勤，考勤方式是纸质名单签字，老师比较善良，无作业，无提问，无考试。
+实验是4学时，我们安排在了周五7,8,9,10节，实际操作7,8节就可以搞定，报告很简单，好课推荐。
+
+> 文 / [jiazero](https://github.com/jiazero)，2025.12
+
