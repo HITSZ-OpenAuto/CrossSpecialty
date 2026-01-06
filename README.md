@@ -221,3 +221,68 @@
 
 > 文 / [IcyDesert](https://github.com/IcyDesert)，2026.1
 
+### 机器学习原理与经管应用
+
+![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2-moccasin)
+![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-具体见下说明-gold)
+
+吴璇
+
+老师人很好，24秋因为本研上大纲和上课所说不同，老师为我们改了考核要求，改成大作业（即实验）100%，但是25秋恢复了需要论文+课堂汇报+大作业的分数组成了，课堂汇报和论文要求英文写作和表达。
+
+课程非常非常硬核。虽然名字叫机器学习，但是课程主要内容是经管中的统计问题，涉及大量多元统计学，如多元线性回归等。且PPT几乎是全英文，难以跟上老师上课速度。
+
+最后的实验难度也颇大，是运用机器学习方法分析某一股票走势或者其他经管问题，对于零基础来说几乎不可能实现。且课堂对此几乎没有涉及。
+
+> 文 / [Gaster](https://github.com/WDGaster703)，2025.1
+
+### 污染控制微生物学
+
+![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2-moccasin)
+![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
+![平时20%](https://img.shields.io/badge/平时-20%25-wheat)
+![实验20%](https://img.shields.io/badge/实验-20%25-wheat)
+![课堂汇报60%](https://img.shields.io/badge/课堂汇报-60%25-wheat)
+
+理论：韩炜，实验：魏
+
+会有不定时考勤，不过不会凭此挂人。上课不怎么讲知识点，老师会讲一些自己的见解。
+
+实验共五个，分别是显微镜、革兰氏染色、接种、细菌测数和PCR，实验都很简单，老师很好，而且实验仪器很好玩（PCR分析仪价格可是不菲的）。
+
+24春有开卷期末考，25春起取消期末考，改为课堂汇报代替。
+
+> 文 / [Gaster](https://github.com/WDGaster703)，2025.7
+
+### 电动力学
+
+![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-3-moccasin)
+![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
+![平时30%](https://img.shields.io/badge/平时-30%25-wheat)
+![期末考试70%](https://img.shields.io/badge/期末考试-70%25-wheat)
+
+老师：秦刚
+
+每节课会有遍历点名，但是不会以此挂人。上课颇为硬核，且老师语速慢，吐字比较不清晰，所以很难听懂。
+
+有四次作业，但是很简单，且此四次作业能决定大部分平时分。
+
+24春期末考为全选填，25春期末考是五题大题，每道大题都是一个概念的简述，考试内容限于大物电磁学部分，具体可以见资料下载，捞的很狠（最后应该是零人挂科）。
+
+> 文 / [Gaster](https://github.com/WDGaster703)，2025.7
+
+### 核能与安全
+
+![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-1.5-moccasin)
+![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
+![平时30%](https://img.shields.io/badge/平时-30%25-wheat)
+![课堂汇报70%](https://img.shields.io/badge/课堂汇报-70%25-wheat)
+
+老师：鞠鹏
+
+主要内容是核反应与核安全，老师上课不太清晰，且上课节奏很慢。会以低频次的提问代替考勤，不过也不太看重这个。有两次作业，一次是核反应的小计算，一次是核安全的分析思路。
+
+最后课程报告为核安全事故分析，可以是福岛或者切尔诺贝利或者其他的，汇报无特别具体的要求，三四页word即可。
+
+> 文 / [Gaster](https://github.com/WDGaster703)，2026.1
+
