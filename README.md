@@ -202,3 +202,22 @@
 
 > 文 / [jiazero](https://github.com/jiazero)，2025.12
 
+### 电子封装可靠性
+
+![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2-moccasin)
+![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
+![课堂表现20%](https://img.shields.io/badge/课堂表现-20%25-wheat)
+![作业报告40%](https://img.shields.io/badge/作业报告-40%25-wheat)
+![期末考试40%](https://img.shields.io/badge/期末考试-40%25-wheat)
+
+大约有 10 次左右的点名考勤，还是比较频繁的；但是老师人很好。
+
+作业有两个：
+
+- 给定题目，写一份 7000 字课程论文
+- 自选主题，作大约 8 分钟的课上汇报
+
+开卷考试，打印资料就能过。
+
+> 文 / [IcyDesert](https://github.com/IcyDesert)，2026.1
+
