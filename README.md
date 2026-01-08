@@ -84,6 +84,11 @@
 
 > 文 / [Caesia-ma](https://github.com/Caesia-ma/),2025.1
 
+25 秋共考勤三次，分别为第一节课，汇报那节课和最后一节课。<br>
+增加了一个小组 pre，要求三分钟内讲完，之后小组成员现场回答一个问题，问题很简单，不用担心
+
+> 文 / [Cecilia](https://github.com/mircecilia/), 2026.1
+
 ### 水力学
 
 ![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2.5-moccasin)
@@ -286,3 +291,15 @@
 
 > 文 / [Gaster](https://github.com/WDGaster703)，2026.1
 
+### 环境学
+
+![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2-moccasin)
+![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
+![课堂汇报30%](https://img.shields.io/badge/课堂汇报-30%25-wheat)
+![结课论文70%](https://img.shields.io/badge/结课论文-70%25-wheat)
+
+课堂汇报内容与环境学相关即可，六七个人一组，汇报时间在 15 分钟左右，要求使用英文汇报，老师会用英文提问 ppt 相关内容，要求使用英文回答
+
+最后结课论文的内容就是你在小组汇报中负责的内容，要求使用英文撰写，长度五到六页左右
+
+> 文 / [Cecilia](https://github.com/mircecilia/),2025.1
