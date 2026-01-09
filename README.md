@@ -303,3 +303,34 @@
 最后结课论文的内容就是你在小组汇报中负责的内容，要求使用英文撰写，长度五到六页左右
 
 > 文 / [Cecilia](https://github.com/mircecilia/),2025.1
+
+### 空间环境
+
+![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2-moccasin)
+![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
+![平时40%](https://img.shields.io/badge/平时-40%25-wheat)
+![期末考试60%](https://img.shields.io/badge/期末考试-60%25-wheat)
+
+2025 秋有四次作业，几乎都能在下发的 PPT 找到答案；另外有若干（应该不算分？）的签到表考勤，不过左平兵老师也偶尔点名。结课后会发作业答案。
+
+考试闭卷，题目和作业有相当部分重合。
+
+> 文 / [IcyDesert](https://github.com/IcyDesert)，2025.7
+
+### 会计学原理
+
+![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-3-moccasin)
+![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
+![作业40%](https://img.shields.io/badge/作业-40%25-wheat)
+![雨课堂练习10%](https://img.shields.io/badge/雨课堂练习-10%25-wheat)
+![期末考试50%](https://img.shields.io/badge/期末考-50%25-wheat)
+
+首先，本课程所有资料为**全英文**，包括PPT、作业题目、雨课堂练习、**期末试题**；但王世璇老师还是中文讲课。
+
+- 作业有 8 次，需**英文回答**，交纸质版且不发回 ~~可以丢给 AI 满分完成~~
+- 雨课堂会不定期布置并通知，一般有一周作答；平时无考勤。
+- 期末考试**英文试卷英文作答**，题型分布为选择题30分（3\*10=30）+计算分录题（50分，共5题）+简答题（2\*10=20）。
+  - 计算题把作业搞懂都能做出来
+  - 简答题考了「会计周期是什么」和「Financial statement 有哪些」
+
+> 文 / [IcyDesert](https://github.com/IcyDesert)，2026.1
