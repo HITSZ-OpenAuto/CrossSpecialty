@@ -570,6 +570,31 @@ content = """
 【成绩构成】: 考试 50% | 课堂汇报 30% | 实验 20%
 """
 author = { name = "潜伏", link = "https://github.com/capoo-fan", date = "2026-01" }
+
+[[courses]]
+name = "理论力学"
+code = ""
+
+[[courses.teachers]]
+name = "凡友华、蔡坤"
+
+[[courses.teachers.reviews]]
+content = """
+- 这一门课是比较硬核的力学课程，包括运动学、静力学和动力学，涉及了很多新的物理概念。作业题难度有点大，但如果能认真听老师讲解的例题以及善于使用工具的话也不是问题（画图很重要！）
+- 虽然如此，考试非常简单。大部分直接考察基本概念，小部分计算题也不涉及复杂的分析，只需要套公式就可以（别被课本上复杂的例题吓到）。考试内容包括基础的运动学、刚体的复合运动、基础的静力学、刚体动力学、虚功原理、拉格朗日方程。只要掌握最基础的概念和公式，过这门四学分的跨专业课就不难。
+- 没有考勤和汇报！
+"""
+author = { name = "lpf", link = "https://github.com/lpf123321", date = "2026-02" }
+
+[[courses.sections]]
+title = "基本信息"
+[[courses.sections.items]]
+content = """
+【学分】: 4
+【成绩构成】: 考试 70% | 作业30%
+"""
+author = { name = "lpf", link = "https://github.com/lpf123321", date = "2026-02" }
+
 [[courses]]
 name = "公司并购与估值"
 code = ""
