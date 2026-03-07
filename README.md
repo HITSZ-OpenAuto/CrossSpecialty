@@ -1,4 +1,5 @@
 # CrossSpecialty - 跨专业选修课程体系
+<!-- TOML-META: repo_type="multi-project" -->
 
 自 23 级起，跨专业发展课程学分从创新学分 14 分中独立出来，成为单独的 10 学分的跨专业课程学分要求。
 跨专业选修课程体系的课程都是非自己本专业的其他专业开设的课程。跨专业课程大体有两类：一类是其他专业的专业课改造而来，如经济学原理；另一类是通识类课程，如普通天文学。
@@ -6,7 +7,11 @@
 对于跨专业课程，大多数人仅仅是为了修够学校要求的 10 分的跨专业学分，因此，跨专业上课考勤要求和期末考情况是两个很重要的参考因素。以下课程信息主要也集中于这两部分内容。
 如果跨专业课程选修的课程在分流后为专业培养方案内的课程，则跨专业课程学分自动成为必修学分/限选学分，而不再作为跨专业学分。
 
+<!-- TOML-COURSES-START -->
+
 ## 大学化学III
+<!-- TOML-COURSE: code="" name="大学化学III" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-2-moccasin)
 
@@ -23,6 +28,8 @@
 > 文 / [Maxwell Jay](https://github.com/MaxwellJay256)，2023-09
 
 ## 生物学导论
+<!-- TOML-COURSE: code="" name="生物学导论" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-2-moccasin)
 
@@ -40,6 +47,8 @@
 > 文 / [海边的星空](https://)，2025-01
 
 ## 氢能与燃料电池
+<!-- TOML-COURSE: code="" name="氢能与燃料电池" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-1.5-moccasin)
 
@@ -64,6 +73,8 @@
 > 文 / [jiazero](https://github.com/jiazero)，2025-12
 
 ## 智慧低碳能源发电技术导论
+<!-- TOML-COURSE: code="" name="智慧低碳能源发电技术导论" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-2-moccasin)
 
@@ -86,6 +97,8 @@
 > 文 / [Cecilia](https://github.com/mircecilia/)，2026-01
 
 ## 水力学
+<!-- TOML-COURSE: code="" name="水力学" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-2.5-moccasin)
 
@@ -105,6 +118,8 @@
     > 文 / [Y-Sensi](https://github.com/Y-Sensi)，2025-01
 
 ## 深空探测
+<!-- TOML-COURSE: code="" name="深空探测" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-2-moccasin)
 
@@ -120,6 +135,8 @@
 > 文 / [gzz](https://github.com/gzz677)，2025-01
 
 ## 普通天文学
+<!-- TOML-COURSE: code="" name="普通天文学" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-2-moccasin)
 
@@ -138,6 +155,8 @@
 > 文 / [Gaster](https://github.com/WDGaster703)，2025-01
 
 ## 经济学原理
+<!-- TOML-COURSE: code="" name="经济学原理" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-4-moccasin)
 
@@ -157,6 +176,8 @@
 具体的资料可以前往[经济学原理](https://hoa.moe/docs/cross-specialty/econ2005f/)查看。
 
 ## OpenHarmony 端云协同物联网开发实践
+<!-- TOML-COURSE: code="" name="OpenHarmony 端云协同物联网开发实践" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-1-moccasin)
 
@@ -175,6 +196,8 @@
 > 文 / [离谱](https://github.com/LiPu-jpg)，2025-08
 
 ## 大模型应用开发入门
+<!-- TOML-COURSE: code="" name="大模型应用开发入门" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-1-moccasin)
 
@@ -199,6 +222,8 @@
 > 文 / [IcyDesert](https://github.com/IcyDesert)，2025-09
 
 ## 城市社会学概论
+<!-- TOML-COURSE: code="" name="城市社会学概论" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-1.5-moccasin)
 
@@ -214,6 +239,8 @@
     > 文 / [jiazero](https://github.com/jiazero)，2025-12
 
 ## 现代电机设计导论
+<!-- TOML-COURSE: code="" name="现代电机设计导论" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-1-moccasin)
 
@@ -229,6 +256,8 @@
 > 文 / [jiazero](https://github.com/jiazero)，2025-12
 
 ## 电子封装可靠性
+<!-- TOML-COURSE: code="" name="电子封装可靠性" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-2-moccasin)
 
@@ -251,6 +280,8 @@
 > 文 / [IcyDesert](https://github.com/IcyDesert)，2026-01
 
 ## 机器学习原理与经管应用
+<!-- TOML-COURSE: code="" name="机器学习原理与经管应用" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-2-moccasin)
 
@@ -266,6 +297,8 @@
     > 文 / [Gaster](https://github.com/WDGaster703)，2025-01
 
 ## 污染控制微生物学
+<!-- TOML-COURSE: code="" name="污染控制微生物学" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-2-moccasin)
 
@@ -283,6 +316,8 @@
     > 文 / [Gaster](https://github.com/WDGaster703)，2025-07
 
 ## 电动力学
+<!-- TOML-COURSE: code="" name="电动力学" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-3-moccasin)
 
@@ -299,6 +334,8 @@
     > 文 / [Gaster](https://github.com/WDGaster703)，2025-07
 
 ## 核能与安全
+<!-- TOML-COURSE: code="" name="核能与安全" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-1.5-moccasin)
 
@@ -314,6 +351,8 @@
     > 文 / [Gaster](https://github.com/WDGaster703)，2026-01
 
 ## 环境学
+<!-- TOML-COURSE: code="" name="环境学" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-2-moccasin)
 
@@ -329,6 +368,8 @@
 > 文 / [Cecilia](https://github.com/mircecilia/)，2025-01
 
 ## 空间环境
+<!-- TOML-COURSE: code="" name="空间环境" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-2-moccasin)
 
@@ -344,6 +385,8 @@
     > 文 / [IcyDesert](https://github.com/IcyDesert)，2025-07
 
 ## 会计学原理
+<!-- TOML-COURSE: code="" name="会计学原理" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-3-moccasin)
 
@@ -364,6 +407,8 @@
     > 文 / [IcyDesert](https://github.com/IcyDesert)，2026-01
 
 ## 量子力学
+<!-- TOML-COURSE: code="" name="量子力学" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-3-moccasin)
 
@@ -387,6 +432,8 @@
     > 文 / Layaka，2025-12
 
 ## 波谱学原理与应用
+<!-- TOML-COURSE: code="" name="波谱学原理与应用" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-2-moccasin)
 
@@ -413,6 +460,8 @@
     > 文 / [lumen](https://github.com/lumen183)，2026-01
 
 ## 走进量子世界
+<!-- TOML-COURSE: code="" name="走进量子世界" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-4-moccasin)
 
@@ -428,6 +477,8 @@
     > 文 / [潜伏](https://github.com/capoo-fan)，2026-01
 
 ## 理论力学
+<!-- TOML-COURSE: code="" name="理论力学" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-4-moccasin)
 
@@ -444,6 +495,8 @@
     > 文 / [lpf](https://github.com/lpf123321)，2026-02
 
 ## 公司并购与估值
+<!-- TOML-COURSE: code="" name="公司并购与估值" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-2-moccasin)
 
@@ -462,6 +515,8 @@
     > 文 / [PVZ&X](https://github.com/wpj9362)，2026-01
 
 ## 绿色金融与碳排放权交易
+<!-- TOML-COURSE: code="" name="绿色金融与碳排放权交易" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-2-moccasin)
 
@@ -484,6 +539,8 @@
     > 文 / [PVZ&X](https://github.com/wpj9362)，2026-01
 
 ## 数智结构概论
+<!-- TOML-COURSE: code="" name="数智结构概论" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-3-moccasin)
 
@@ -502,6 +559,8 @@
     > 文 / [SpeechlessPanda](https://github.com/SpeechlessPanda)，2026-01
 
 ## 软体机器人理论与技术
+<!-- TOML-COURSE: code="" name="软体机器人理论与技术" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-2-moccasin)
 
@@ -520,6 +579,8 @@
     > 文 / [SpeechlessPanda](https://github.com/SpeechlessPanda)，2026-01
 
 ## 行星科学
+<!-- TOML-COURSE: code="" name="行星科学" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-2-moccasin)
 
@@ -534,6 +595,8 @@
     > 文 / [潜伏](https://github.com/capoo-fan)，2026-01
 
 ## 基础计量经济学
+<!-- TOML-COURSE: code="" name="基础计量经济学" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-3-moccasin)
 
