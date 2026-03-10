@@ -27,12 +27,6 @@
 
 > 文 / [Maxwell Jay](https://github.com/MaxwellJay256)，2023-09
 
-### 大学化学III - 自动回归测试
-
-multi-project 仓库提交链路回归测试，时间戳 20260310-184748。该 PR 仅用于接口验证，可直接关闭。
-
-> 文 / Copilot Regression，2026-03
-
 ## 生物学导论
 <!-- TOML-COURSE: code="" name="生物学导论" -->
 <!-- TOML-BADGES: source="basic_info" -->
