@@ -11,13 +11,6 @@
 
 ## 大学化学III
 <!-- TOML-COURSE: code="" name="大学化学III" -->
-<!-- TOML-BADGES: source="basic_info" -->
-
-![学分](https://img.shields.io/badge/学分-2-moccasin)
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![平时作业60%](https://img.shields.io/badge/平时作业-60%25-wheat)
-![实验40%](https://img.shields.io/badge/实验-40%25-wheat)
 
 ### 大学化学III - 课程概况
 
@@ -29,13 +22,6 @@
 
 ## 生物学导论
 <!-- TOML-COURSE: code="" name="生物学导论" -->
-<!-- TOML-BADGES: source="basic_info" -->
-
-![学分](https://img.shields.io/badge/学分-2-moccasin)
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![小测80%](https://img.shields.io/badge/小测-80%25-wheat)
-![课堂汇报20%](https://img.shields.io/badge/课堂汇报-20%25-wheat)
 
 ### 生物学导论 - 课程概况
 
@@ -48,17 +34,6 @@
 
 ## 氢能与燃料电池
 <!-- TOML-COURSE: code="" name="氢能与燃料电池" -->
-<!-- TOML-BADGES: source="basic_info" -->
-
-![学分](https://img.shields.io/badge/学分-1.5-moccasin)
-
-![学时构成](https://img.shields.io/badge/学时构成-gold)
-![理论22](https://img.shields.io/badge/理论-22-wheat)
-![实验2](https://img.shields.io/badge/实验-2-wheat)
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业40%](https://img.shields.io/badge/作业-40%25-wheat)
-![期末考试60%](https://img.shields.io/badge/期末考试-60%25-wheat)
 
 ### 氢能与燃料电池 - 授课教师
 
@@ -74,13 +49,6 @@
 
 ## 智慧低碳能源发电技术导论
 <!-- TOML-COURSE: code="" name="智慧低碳能源发电技术导论" -->
-<!-- TOML-BADGES: source="basic_info" -->
-
-![学分](https://img.shields.io/badge/学分-2-moccasin)
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![平时成绩30%](https://img.shields.io/badge/平时成绩-30%25-wheat)
-![期末考试70%](https://img.shields.io/badge/期末考试-70%25-wheat)
 
 ### 智慧低碳能源发电技术导论 - 授课教师
 
@@ -98,18 +66,6 @@
 
 ## 水力学
 <!-- TOML-COURSE: code="" name="水力学" -->
-<!-- TOML-BADGES: source="basic_info" -->
-
-![学分](https://img.shields.io/badge/学分-2.5-moccasin)
-
-![学时构成](https://img.shields.io/badge/学时构成-gold)
-![理论学时32](https://img.shields.io/badge/理论学时-32-wheat)
-![实验学时8](https://img.shields.io/badge/实验学时-8-wheat)
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业30%](https://img.shields.io/badge/作业-30%25-wheat)
-![实验20%](https://img.shields.io/badge/实验-20%25-wheat)
-![课堂测验50%](https://img.shields.io/badge/课堂测验-50%25-wheat)
 
 ### 水力学 - 授课教师
 
@@ -119,14 +75,6 @@
 
 ## 深空探测
 <!-- TOML-COURSE: code="" name="深空探测" -->
-<!-- TOML-BADGES: source="basic_info" -->
-
-![学分](https://img.shields.io/badge/学分-2-moccasin)
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![课堂参与30%](https://img.shields.io/badge/课堂参与-30%25-wheat)
-![期末研讨30%](https://img.shields.io/badge/期末研讨-30%25-wheat)
-![课程论文40%](https://img.shields.io/badge/课程论文-40%25-wheat)
 
 ### 深空探测 - 课程概况
 
@@ -136,14 +84,6 @@
 
 ## 普通天文学
 <!-- TOML-COURSE: code="" name="普通天文学" -->
-<!-- TOML-BADGES: source="basic_info" -->
-
-![学分](https://img.shields.io/badge/学分-2-moccasin)
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![考勤20%](https://img.shields.io/badge/考勤-20%25-wheat)
-![作业30%](https://img.shields.io/badge/作业-30%25-wheat)
-![期末考试60%](https://img.shields.io/badge/期末考试-60%25-wheat)
 
 ### 普通天文学 - 课程概况
 
@@ -156,16 +96,6 @@
 
 ## 经济学原理
 <!-- TOML-COURSE: code="" name="经济学原理" -->
-<!-- TOML-BADGES: source="basic_info" -->
-
-![学分](https://img.shields.io/badge/学分-4-moccasin)
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![考勤10%](https://img.shields.io/badge/考勤-10%25-wheat)
-![作业15%](https://img.shields.io/badge/作业-15%25-wheat)
-![生活中的经济学15%](https://img.shields.io/badge/生活中的经济学-15%25-wheat)
-![期中考试30%](https://img.shields.io/badge/期中考试-30%25-wheat)
-![期末考试30%](https://img.shields.io/badge/期末考试-30%25-wheat)
 
 ### 经济学原理 - 课程概况
 
@@ -177,13 +107,6 @@
 
 ## OpenHarmony 端云协同物联网开发实践
 <!-- TOML-COURSE: code="" name="OpenHarmony 端云协同物联网开发实践" -->
-<!-- TOML-BADGES: source="basic_info" -->
-
-![学分](https://img.shields.io/badge/学分-1-moccasin)
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![实验报告60%](https://img.shields.io/badge/实验报告-60%25-wheat)
-![答辩40%](https://img.shields.io/badge/答辩-40%25-wheat)
 
 ### OpenHarmony 端云协同物联网开发实践 - 课程概况
 
@@ -197,14 +120,6 @@
 
 ## 大模型应用开发入门
 <!-- TOML-COURSE: code="" name="大模型应用开发入门" -->
-<!-- TOML-BADGES: source="basic_info" -->
-
-![学分](https://img.shields.io/badge/学分-1-moccasin)
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![平时考核10%](https://img.shields.io/badge/平时考核-10%25-wheat)
-![实验作业60%](https://img.shields.io/badge/实验作业-60%25-wheat)
-![期末综合项目30%](https://img.shields.io/badge/期末综合项目-30%25-wheat)
 
 ### 大模型应用开发入门 - 授课教师
 
@@ -223,12 +138,6 @@
 
 ## 城市社会学概论
 <!-- TOML-COURSE: code="" name="城市社会学概论" -->
-<!-- TOML-BADGES: source="basic_info" -->
-
-![学分](https://img.shields.io/badge/学分-1.5-moccasin)
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![平时作业100%](https://img.shields.io/badge/平时作业-100%25-wheat)
 
 ### 城市社会学概论 - 授课教师
 
@@ -240,13 +149,6 @@
 
 ## 现代电机设计导论
 <!-- TOML-COURSE: code="" name="现代电机设计导论" -->
-<!-- TOML-BADGES: source="basic_info" -->
-
-![学分](https://img.shields.io/badge/学分-1-moccasin)
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![实验报告50%](https://img.shields.io/badge/实验报告-50%25-wheat)
-![平时分50%](https://img.shields.io/badge/平时分-50%25-wheat)
 
 ### 现代电机设计导论 - 课程概况
 
@@ -257,14 +159,6 @@
 
 ## 电子封装可靠性
 <!-- TOML-COURSE: code="" name="电子封装可靠性" -->
-<!-- TOML-BADGES: source="basic_info" -->
-
-![学分](https://img.shields.io/badge/学分-2-moccasin)
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![课堂表现20%](https://img.shields.io/badge/课堂表现-20%25-wheat)
-![作业报告40%](https://img.shields.io/badge/作业报告-40%25-wheat)
-![期末考试40%](https://img.shields.io/badge/期末考试-40%25-wheat)
 
 ### 电子封装可靠性 - 课程概况
 
@@ -281,12 +175,6 @@
 
 ## 机器学习原理与经管应用
 <!-- TOML-COURSE: code="" name="机器学习原理与经管应用" -->
-<!-- TOML-BADGES: source="basic_info" -->
-
-![学分](https://img.shields.io/badge/学分-2-moccasin)
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![大作业(实验)100%](https://img.shields.io/badge/大作业(实验)-100%25-wheat)
 
 ### 机器学习原理与经管应用 - 授课教师
 
@@ -298,14 +186,6 @@
 
 ## 污染控制微生物学
 <!-- TOML-COURSE: code="" name="污染控制微生物学" -->
-<!-- TOML-BADGES: source="basic_info" -->
-
-![学分](https://img.shields.io/badge/学分-2-moccasin)
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![平时20%](https://img.shields.io/badge/平时-20%25-wheat)
-![实验20%](https://img.shields.io/badge/实验-20%25-wheat)
-![课堂汇报60%](https://img.shields.io/badge/课堂汇报-60%25-wheat)
 
 ### 污染控制微生物学 - 授课教师
 
@@ -317,13 +197,6 @@
 
 ## 电动力学
 <!-- TOML-COURSE: code="" name="电动力学" -->
-<!-- TOML-BADGES: source="basic_info" -->
-
-![学分](https://img.shields.io/badge/学分-3-moccasin)
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![平时30%](https://img.shields.io/badge/平时-30%25-wheat)
-![期末考试70%](https://img.shields.io/badge/期末考试-70%25-wheat)
 
 ### 电动力学 - 授课教师
 
@@ -335,13 +208,6 @@
 
 ## 核能与安全
 <!-- TOML-COURSE: code="" name="核能与安全" -->
-<!-- TOML-BADGES: source="basic_info" -->
-
-![学分](https://img.shields.io/badge/学分-1.5-moccasin)
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![平时30%](https://img.shields.io/badge/平时-30%25-wheat)
-![课堂汇报70%](https://img.shields.io/badge/课堂汇报-70%25-wheat)
 
 ### 核能与安全 - 授课教师
 
@@ -352,13 +218,6 @@
 
 ## 环境学
 <!-- TOML-COURSE: code="" name="环境学" -->
-<!-- TOML-BADGES: source="basic_info" -->
-
-![学分](https://img.shields.io/badge/学分-2-moccasin)
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![课堂汇报30%](https://img.shields.io/badge/课堂汇报-30%25-wheat)
-![结课论文70%](https://img.shields.io/badge/结课论文-70%25-wheat)
 
 ### 环境学 - 课程概况
 
@@ -369,13 +228,6 @@
 
 ## 空间环境
 <!-- TOML-COURSE: code="" name="空间环境" -->
-<!-- TOML-BADGES: source="basic_info" -->
-
-![学分](https://img.shields.io/badge/学分-2-moccasin)
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![平时40%](https://img.shields.io/badge/平时-40%25-wheat)
-![期末考试60%](https://img.shields.io/badge/期末考试-60%25-wheat)
 
 ### 空间环境 - 授课教师
 
@@ -386,14 +238,6 @@
 
 ## 会计学原理
 <!-- TOML-COURSE: code="" name="会计学原理" -->
-<!-- TOML-BADGES: source="basic_info" -->
-
-![学分](https://img.shields.io/badge/学分-3-moccasin)
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业40%](https://img.shields.io/badge/作业-40%25-wheat)
-![雨课堂练习10%](https://img.shields.io/badge/雨课堂练习-10%25-wheat)
-![期末考50%](https://img.shields.io/badge/期末考-50%25-wheat)
 
 ### 会计学原理 - 授课教师
 
@@ -408,13 +252,6 @@
 
 ## 量子力学
 <!-- TOML-COURSE: code="" name="量子力学" -->
-<!-- TOML-BADGES: source="basic_info" -->
-
-![学分](https://img.shields.io/badge/学分-3-moccasin)
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![平时40%](https://img.shields.io/badge/平时-40%25-wheat)
-![期末考试60%](https://img.shields.io/badge/期末考试-60%25-wheat)
 
 ### 量子力学 - 授课教师
 
@@ -433,14 +270,6 @@
 
 ## 波谱学原理与应用
 <!-- TOML-COURSE: code="" name="波谱学原理与应用" -->
-<!-- TOML-BADGES: source="basic_info" -->
-
-![学分](https://img.shields.io/badge/学分-2-moccasin)
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业30%](https://img.shields.io/badge/作业-30%25-wheat)
-![报告30%](https://img.shields.io/badge/报告-30%25-wheat)
-![期末考试40%](https://img.shields.io/badge/期末考试-40%25-wheat)
 
 ### 波谱学原理与应用 - 授课教师
 
@@ -461,14 +290,6 @@
 
 ## 走进量子世界
 <!-- TOML-COURSE: code="" name="走进量子世界" -->
-<!-- TOML-BADGES: source="basic_info" -->
-
-![学分](https://img.shields.io/badge/学分-4-moccasin)
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![考试50%](https://img.shields.io/badge/考试-50%25-wheat)
-![课堂汇报30%](https://img.shields.io/badge/课堂汇报-30%25-wheat)
-![实验20%](https://img.shields.io/badge/实验-20%25-wheat)
 
 ### 走进量子世界 - 授课教师
 
@@ -478,13 +299,6 @@
 
 ## 理论力学
 <!-- TOML-COURSE: code="" name="理论力学" -->
-<!-- TOML-BADGES: source="basic_info" -->
-
-![学分](https://img.shields.io/badge/学分-4-moccasin)
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![考试70%](https://img.shields.io/badge/考试-70%25-wheat)
-![作业30%](https://img.shields.io/badge/作业-30%25-wheat)
 
 ### 理论力学 - 授课教师
 
@@ -496,13 +310,6 @@
 
 ## 公司并购与估值
 <!-- TOML-COURSE: code="" name="公司并购与估值" -->
-<!-- TOML-BADGES: source="basic_info" -->
-
-![学分](https://img.shields.io/badge/学分-2-moccasin)
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业40%](https://img.shields.io/badge/作业-40%25-wheat)
-![课堂汇报60%](https://img.shields.io/badge/课堂汇报-60%25-wheat)
 
 ### 公司并购与估值 - 授课教师
 
@@ -516,14 +323,6 @@
 
 ## 绿色金融与碳排放权交易
 <!-- TOML-COURSE: code="" name="绿色金融与碳排放权交易" -->
-<!-- TOML-BADGES: source="basic_info" -->
-
-![学分](https://img.shields.io/badge/学分-2-moccasin)
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![考勤10%](https://img.shields.io/badge/考勤-10%25-wheat)
-![论文分析45%](https://img.shields.io/badge/论文分析-45%25-wheat)
-![课程汇报45%](https://img.shields.io/badge/课程汇报-45%25-wheat)
 
 ### 绿色金融与碳排放权交易 - 授课教师
 
@@ -540,13 +339,6 @@
 
 ## 数智结构概论
 <!-- TOML-COURSE: code="" name="数智结构概论" -->
-<!-- TOML-BADGES: source="basic_info" -->
-
-![学分](https://img.shields.io/badge/学分-3-moccasin)
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![考勤40%](https://img.shields.io/badge/考勤-40%25-wheat)
-![作业60%](https://img.shields.io/badge/作业-60%25-wheat)
 
 ### 数智结构概论 - 授课教师
 
@@ -560,13 +352,6 @@
 
 ## 软体机器人理论与技术
 <!-- TOML-COURSE: code="" name="软体机器人理论与技术" -->
-<!-- TOML-BADGES: source="basic_info" -->
-
-![学分](https://img.shields.io/badge/学分-2-moccasin)
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业和随堂测试40%](https://img.shields.io/badge/作业和随堂测试-40%25-wheat)
-![期末报告60%](https://img.shields.io/badge/期末报告-60%25-wheat)
 
 ### 软体机器人理论与技术 - 授课教师
 
@@ -580,13 +365,6 @@
 
 ## 行星科学
 <!-- TOML-COURSE: code="" name="行星科学" -->
-<!-- TOML-BADGES: source="basic_info" -->
-
-![学分](https://img.shields.io/badge/学分-2-moccasin)
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![课堂汇报50%](https://img.shields.io/badge/课堂汇报-50%25-wheat)
-![课程论文50%](https://img.shields.io/badge/课程论文-50%25-wheat)
 
 ### 行星科学 - 授课教师
 
@@ -596,14 +374,6 @@
 
 ## 基础计量经济学
 <!-- TOML-COURSE: code="" name="基础计量经济学" -->
-<!-- TOML-BADGES: source="basic_info" -->
-
-![学分](https://img.shields.io/badge/学分-3-moccasin)
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![平时作业40%](https://img.shields.io/badge/平时作业-40%25-wheat)
-![期末考试50%](https://img.shields.io/badge/期末考试-50%25-wheat)
-![课堂表现10%](https://img.shields.io/badge/课堂表现-10%25-wheat)
 
 ### 基础计量经济学 - 授课教师
 
