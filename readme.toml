@@ -471,3 +471,10 @@ content = """
 考试方面，不考实验课涉及的部分，只考理论课的内容。不复习的话考试基本上是没法考的，但是老师的 ppt 又特别特别多，如果选了这门课的同学还是建议至少预留两三天时间复习期末考（虽然应该也不太容易挂科，毕竟考试只占百分之五十）。
 """
 author = { name = "fruly-ZERO", link = "https://github.com/fruly-ZERO", date = "2026-01" }
+
+
+[[sections]]
+title = "测试"
+[[sections.items]]
+content = "测试"
+author = { name = "测试", link = "测试", date = "2026-03" }
