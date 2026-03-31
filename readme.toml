@@ -13,14 +13,6 @@ description = """
 name = "大学化学III"
 
 [[courses.sections]]
-title = "基本信息"
-[[courses.sections.items]]
-content = """
-【学分】: 2
-【成绩构成】: 平时作业 60% | 实验 40%
-"""
-
-[[courses.sections]]
 title = "课程概况"
 
 [[courses.sections.items]]

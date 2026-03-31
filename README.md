@@ -11,13 +11,6 @@
 
 ## 大学化学III
 <!-- TOML-COURSE: code="" name="大学化学III" -->
-<!-- TOML-BADGES: source="basic_info" -->
-
-![学分](https://img.shields.io/badge/学分-2-moccasin)
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![平时作业60%](https://img.shields.io/badge/平时作业-60%25-wheat)
-![实验40%](https://img.shields.io/badge/实验-40%25-wheat)
 
 ### 课程概况
 
