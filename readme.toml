@@ -181,6 +181,26 @@ content = """
 author = { name = "jiazero", link = "https://github.com/jiazero", date = "2025-12" }
 
 [[courses]]
+name = "生活中的社会学"
+
+[[courses.teachers]]
+name = "叶老师"
+
+[[courses.teachers.reviews]]
+content = "叶老师人很好，讲得也非常好。课程围绕社会学展开，介绍福利、权力、劳动、消费观、亲密关系等与大家生活关系密切的内容，上完课会有很多思考和收获。"
+
+[[courses.sections]]
+title = "课程概况"
+
+[[courses.sections.items]]
+content = """
+此门课程在 2025 春属于文理通识课程，2026 春变为跨专业课程，2 学分。
+
+老师不考勤，缺勤不会扣分；没有 pre，没有考试，只需在期末提交一篇 1000 字报告。
+"""
+author = { name = "wzy", link = "https://github.com/Wzy-wm", date = "2026-07" }
+
+[[courses]]
 name = "现代电机设计导论"
 
 [[courses.sections]]
