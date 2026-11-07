@@ -1,0 +1,47 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 554,
+    "time": 1794022762,
+    "hash": "2c1c8bd5699d8115c122f0dd581b8198f692a966"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1735885671,
+    "hash": "1ac2de34909493d922ebf3ad02ba63120d867432"
+  },
+  "README.md": {
+    "size": 3685,
+    "time": 1783772512,
+    "hash": "77f1840b7f36e22a260309a27fee6c636058d1b2"
+  },
+  "assignments/README.md": {
+    "size": 39,
+    "time": 1735885671,
+    "hash": "1ac2de34909493d922ebf3ad02ba63120d867432"
+  },
+  "exams/README.md": {
+    "size": 54,
+    "time": 1735885671,
+    "hash": "1ac2de34909493d922ebf3ad02ba63120d867432"
+  },
+  "labs/README.md": {
+    "size": 395,
+    "time": 1735885671,
+    "hash": "1ac2de34909493d922ebf3ad02ba63120d867432"
+  },
+  "notes/README.md": {
+    "size": 42,
+    "time": 1735885671,
+    "hash": "1ac2de34909493d922ebf3ad02ba63120d867432"
+  },
+  "readme.toml": {
+    "size": 3718,
+    "time": 1783772512,
+    "hash": "77f1840b7f36e22a260309a27fee6c636058d1b2"
+  },
+  "slides/README.md": {
+    "size": 58,
+    "time": 1735885671,
+    "hash": "1ac2de34909493d922ebf3ad02ba63120d867432"
+  }
+}
